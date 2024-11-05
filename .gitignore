@@ -1,0 +1,17 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+
+# Ignore macOS system files (optional, if using macOS)
+.DS_Store
+
+# Ignore Cursor IDE specific files (optional, if relevant)
+.idea/
